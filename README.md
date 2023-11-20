@@ -7,7 +7,7 @@ using TheCatAPI: https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6O
 
 - Vite
 - React
-- Fly.io (hosting)
+- Netlify (hosting)
 
 - Bootstrap
 - Fontawesome
