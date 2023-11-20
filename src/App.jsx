@@ -129,7 +129,7 @@ function App() {
 			catService
 			.getRandomCat()
 			.then(newCat => {
-				newCat.name = catNames[Math.floor(Math.random() * catNames.length)]
+				newCat[0].name = catNames[Math.floor(Math.random() * catNames.length)]
 				const newCats = [...cats, ...newCat]
 				setCats(newCats)
 				
