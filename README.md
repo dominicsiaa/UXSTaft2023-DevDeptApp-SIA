@@ -5,13 +5,15 @@ using TheCatAPI: https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6O
 
 → Framework, tools, and libraries used
 
-Vite
-React
-Fly.io (hosting)
+- Vite
+- React
+- Fly.io (hosting)
 
-Bootstrap
-Fontawesome
+- Bootstrap
+- Fontawesome
+
+- ChatGPT
 
 → Additional notes or remarks you would like us to consider
 
-N/A
+- N/A
