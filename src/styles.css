@@ -1,0 +1,43 @@
+:root {
+    background-color: #b4c5e4;
+}
+
+#root {
+    background-color: #b4c5e4;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.section {
+    background-color: #fdfff3;
+    padding: 1rem;
+    margin: 2rem;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.25);
+}
+
+.catNavigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.catCounter {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    margin: 0 3rem;
+}
+
+.catInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
